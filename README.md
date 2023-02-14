@@ -1,2 +1,2 @@
-# informational-site
+# Basic informational-site
 informational site server using node.js
